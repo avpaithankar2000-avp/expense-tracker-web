@@ -1,0 +1,16 @@
+{
+    "om@86": [
+        {
+            "category": "Food",
+            "amount": 1000.0,
+            "date": "2025-10-22",
+            "note": "first expenses"
+        },
+        {
+            "category": "Travel",
+            "amount": 1000.0,
+            "date": "2025-10-21",
+            "note": "second expenses"
+        }
+    ]
+}
